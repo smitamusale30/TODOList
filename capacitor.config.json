@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TODOList",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
